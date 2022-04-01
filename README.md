@@ -1,6 +1,6 @@
-# Go CRUD Banking App
+# Go CRUD API Banking App
 
-CRUD with Go Language using gorilla/mux and Postman
+Banking App CRUD API with Go Language using gorilla/mux and Postman
 
 #### Required: Go, and Postman (or curl, insomnia, etc)
 
